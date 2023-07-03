@@ -1,4 +1,4 @@
-## Hot to running
+## How to running
 
 ```bash
 kubectl create ns nginx-limit-pod
