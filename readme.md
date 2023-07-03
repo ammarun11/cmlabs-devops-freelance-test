@@ -3,7 +3,7 @@
 ```bash
 kubectl create ns nginx-limit-pod
 
-kubect create -f nginx-deployment-limit.yaml
+kubectl create -f nginx-deployment-limit.yaml
 ```
 
 ## Verify
